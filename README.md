@@ -10,7 +10,7 @@
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://linkedin.com/ in/ilaydanadia" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydanadia" height="30" width="40" /></a >
-<a href="https://www.hackerrank.com/ilaydanadia" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/hackerrank.svg" alt="ilaydanadia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ ilaydanadia" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/hackerrank.svg" alt="ilaydanadia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Diller ve Araçlar:</h3>
