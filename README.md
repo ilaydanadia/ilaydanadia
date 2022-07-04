@@ -3,9 +3,9 @@
 
 <p align="left"> <img src ="https://komarev.com/ghpvc/?username=ilaydanadia&label=Profile%20views&color=0e75b6&style=flat" alt="ilaydanadia" /> </p>
 
-- 🌱 Şu anda **Java** öğreniyorum
+- 🌱 I’m currently learning **Java**
 
-- 📫 Bana nasıl ulaşırsınız **ilaydanadia@gmail.com**
+- 📫 How to reach me **ilaydanadia@gmail.com**
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
